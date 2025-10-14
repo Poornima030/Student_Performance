@@ -19,7 +19,6 @@ You can view and interact with the deployed application directly here:
 | `app.py` | The main Python script containing the **Streamlit application logic** and data visualizations. |
 | `requirements.txt` | A list of all necessary Python libraries (dependencies) to run the application. |
 | `student_mat.csv` | The dataset used for the analysis, containing student demographic, social, and study-related attributes, along with their final math grades. |
-| `README.md` | This file providing an overview of the project. |
 
 ---
 
