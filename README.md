@@ -29,7 +29,7 @@ To run this application on your local machine, follow these steps:
 ### 1\. Clone the repository
 
 ```bash
-git clone https://github.com/POORNI1336/student-performance.git
+git clone https://github.com/Poornima030/Student_Performance
 cd student-performance
 ```
 
